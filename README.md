@@ -1,2 +1,2 @@
-#Demo
+#DEMO
 Description for application
